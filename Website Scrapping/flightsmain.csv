@@ -1,0 +1,436 @@
+Airlines Name,Departure Time,Arrival Time,Departure Location,Arrival Destination,Flight Duration,Direct FLight,Layover Time,Transit Location,Transit Airport,Price,Source Link,Scraped Website
+,4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$683,,Momondo
+,12:25 pm,10:35 pm,HEL,EWR,17h 10m,True,1h 50m,IST,,$556,,Momondo
+ Finnair,4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$703,,Momondo
+ Finnair,4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$703,,Momondo
+ Finnair,4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$703,,Momondo
+ Finnair,4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$715,,Momondo
+ Finnair,4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$715,,Momondo
+ Finnair,4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$715,,Momondo
+ Finnair,4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$685,,Momondo
+ Finnair,4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$694,,Momondo
+ Finnair,4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$740,,Momondo
+" Finnair, American Airlines",4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$740,,Momondo
+ American Airlines,4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$759,,Momondo
+" Finnair, American Airlines",4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$730,,Momondo
+ Finnair,4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$752,,Momondo
+ Finnair,4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$752,,Momondo
+" Finnair, American Airlines",4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$730,,Momondo
+ Finnair,4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$752,,Momondo
+ Finnair,4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$752,,Momondo
+ British Airways,4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$794,,Momondo
+" Finnair, American Airlines",4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$752,,Momondo
+" Finnair, British Airways",4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$746,,Momondo
+ Finnair,4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$752,,Momondo
+ American Airlines,2:00 pm,8:10 pm,HEL,JFK,13h 10m,True,1h 50m,LHR,,$718,,Momondo
+ Finnair,2:00 pm,8:10 pm,HEL,JFK,13h 10m,True,1h 50m,LHR,,$718,,Momondo
+" KLM Cityhopper, KLM",1:55 pm,7:25 pm,HEL,JFK,12h 30m,True,1h 40m,AMS,,$659,,Momondo
+" KLM Cityhopper, Delta",1:55 pm,7:25 pm,HEL,JFK,12h 30m,True,1h 40m,AMS,,$662,,Momondo
+ Finnair,4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$750,,Momondo
+ British Airways,4:00 pm,10:05 pm,HEL,EWR,13h 05m,True,1h 50m,LHR,,$750,,Momondo
+" Finnair, British Airways",4:00 pm,10:05 pm,HEL,EWR,13h 05m,True,1h 50m,LHR,,$750,,Momondo
+ Finnair,4:00 pm,10:10 pm,HEL,JFK,13h 10m,True,2h 00m,LHR,,$721,,Momondo
+" Finnair, American Airlines",2:00 pm,8:10 pm,HEL,JFK,13h 10m,True,1h 50m,LHR,,$720,,Momondo
+ KLM,1:55 pm,7:25 pm,HEL,JFK,12h 30m,True,1h 40m,AMS,,$659,,Momondo
+ Finnair,7:50 am,1:45 pm,HEL,JFK,12h 55m,True,1h 25m,LHR,,$760,,Momondo
+ Delta,1:55 pm,7:25 pm,HEL,JFK,12h 30m,True,1h 40m,AMS,,$662,,Momondo
+" Finnair, American Airlines",7:50 am,1:45 pm,HEL,JFK,12h 55m,True,1h 25m,LHR,,$743,,Momondo
+" KLM Cityhopper For KLM Royal Dutch Airli, Delta, KLM",1:55 pm,7:25 pm,HEL,JFK,12h 30m,True,1h 40m,AMS,,$706,,Momondo
+ Finnair,4:00 pm,10:05 pm,HEL,EWR,13h 05m,True,1h 50m,LHR,,$752,,Momondo
+ Xfly,9:10 am,1:35 pm,HEL,EWR,11h 25m,True,1h 20m,ARN,,$716,,Momondo
+ Xfly,9:10 am,1:35 pm,HEL,EWR,11h 25m,True,1h 20m,ARN,,$696,,Momondo
+ Finnair,4:00 pm,10:05 pm,HEL,EWR,13h 05m,True,1h 50m,LHR,,$782,,Momondo
+" Finnair, American Airlines",4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$756,,Momondo
+ Finnair,4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$794,,Momondo
+" KLM Cityhopper, Air France",6:30 am,2:40 pm,HEL,EWR,15h 10m,True,3h 25m,CDG,,$616,,Momondo
+ Finnair,7:50 am,2:25 pm,HEL,JFK,13h 35m,True,2h 10m,LHR,,$766,,Momondo
+" KLM Cityhopper, Air France",6:30 am,12:55 pm,HEL,JFK,13h 25m,True,1h 35m,CDG,,$704,,Momondo
+" KLM Cityhopper, Delta",6:30 am,12:55 pm,HEL,JFK,13h 25m,True,1h 35m,CDG,,$708,,Momondo
+,2:00 pm,8:25 pm,HEL,JFK,13h 25m,True,1h 25m,FRA,,$706,,Momondo
+ Nordic Reg For Finnair,2:00 pm,6:00 pm,HEL,JFK,11h 00m,True,0h 55m,KEF,,$739,,Momondo
+" Air France, KLM",6:30 am,12:55 pm,HEL,JFK,13h 25m,True,1h 35m,CDG,,$704,,Momondo
+ Nordic Reg For Finnair,2:00 pm,6:20 pm,HEL,EWR,11h 20m,True,1h 05m,KEF,,$739,,Momondo
+ Finnair,4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$760,,Momondo
+" Finnair, Republic Airways AS American Eagle",4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$713,,Momondo
+ Finnair,2:00 pm,6:00 pm,HEL,JFK,11h 00m,True,0h 55m,KEF,,$762,,Momondo
+" Finnair, British Airways",4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$752,,Momondo
+ United Airlines,2:00 pm,8:25 pm,HEL,JFK,13h 25m,True,1h 25m,FRA,,$761,,Momondo
+ Finnair,4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$751,,Momondo
+" Finnair, American Airlines",2:00 pm,8:10 pm,HEL,JFK,13h 10m,True,1h 50m,LHR,,$764,,Momondo
+ Xfly,9:10 am,1:35 pm,HEL,EWR,11h 25m,True,1h 20m,ARN,,$744,,Momondo
+" Finnair, American Airlines",7:50 am,1:45 pm,HEL,JFK,12h 55m,True,1h 25m,LHR,,$780,,Momondo
+ United Airlines,2:00 pm,8:30 pm,HEL,EWR,13h 30m,True,1h 25m,FRA,,$789,,Momondo
+" Republic Airways Delta Connection, KLM",1:55 pm,7:25 pm,HEL,JFK,12h 30m,True,1h 40m,AMS,,$659,,Momondo
+,2:00 pm,8:25 pm,HEL,JFK,13h 25m,True,1h 25m,FRA,,$794,,Momondo
+ Finnair,4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$727,,Momondo
+" KLM, Air France",1:55 pm,7:25 pm,HEL,JFK,12h 30m,True,1h 40m,AMS,,$734,,Momondo
+ United Airlines,7:05 am,2:00 pm,HEL,EWR,13h 55m,True,2h 10m,FRA,,$789,,Momondo
+,2:00 pm,8:25 pm,HEL,JFK,13h 25m,True,1h 25m,FRA,,$709,,Momondo
+ KLM,1:55 pm,7:25 pm,HEL,JFK,12h 30m,True,1h 40m,AMS,,$697,,Momondo
+ British Airways,11:45 am,9:15 pm,HEL,JFK,16h 30m,True,2h 15m,CPH,,$782,,Momondo
+,2:00 pm,8:30 pm,HEL,EWR,13h 30m,True,1h 25m,FRA,,$843,,Momondo
+ United Airlines,2:00 pm,8:30 pm,HEL,EWR,13h 30m,True,1h 25m,FRA,,$768,,Momondo
+" Finnair, American Airlines",4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$720,,Momondo
+ KLM,1:55 pm,7:25 pm,HEL,JFK,12h 30m,True,1h 40m,AMS,,$697,,Momondo
+" Republic Airways-DL Connection-DL Shuttle, KLM",1:55 pm,7:25 pm,HEL,JFK,12h 30m,True,1h 40m,AMS,,$697,,Momondo
+" Republic Airways Delta Connection, Air France, KLM",6:30 am,12:55 pm,HEL,JFK,13h 25m,True,1h 35m,CDG,,$704,,Momondo
+" Finnair, American Airlines",4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$803,,Momondo
+ Xfly,9:10 am,1:35 pm,HEL,EWR,11h 25m,True,1h 20m,ARN,,$696,,Momondo
+" Finnair, American Airlines",7:35 am,2:30 pm,HEL,JFK,13h 55m,True,1h 40m,CDG,,$721,,Momondo
+" Finnair, American Airlines",7:35 am,2:30 pm,HEL,JFK,13h 55m,True,1h 40m,CDG,,$721,,Momondo
+" Finnair, American Airlines",4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$736,,Momondo
+ Finnair,4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$744,,Momondo
+" Finnair, British Airways",2:00 pm,9:15 pm,HEL,JFK,14h 15m,True,2h 45m,LHR,,$718,,Momondo
+ Finnair,2:00 pm,9:15 pm,HEL,JFK,14h 15m,True,2h 45m,LHR,,$721,,Momondo
+" Delta, KLM",1:55 pm,7:25 pm,HEL,JFK,12h 30m,True,1h 40m,AMS,,$706,,Momondo
+" Finnair, American Airlines",7:35 am,2:30 pm,HEL,JFK,13h 55m,True,1h 40m,CDG,,$729,,Momondo
+" Finnair, American Airlines",7:35 am,2:30 pm,HEL,JFK,13h 55m,True,1h 40m,CDG,,$729,,Momondo
+ Finnair,4:00 pm,10:05 pm,HEL,EWR,13h 05m,True,1h 50m,LHR,,$782,,Momondo
+" Finnair, American Airlines",4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$756,,Momondo
+ Finnair,4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$750,,Momondo
+ British Airways,4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$768,,Momondo
+ Finnair,2:00 pm,9:15 pm,HEL,JFK,14h 15m,True,2h 45m,LHR,,$730,,Momondo
+ Finnair,2:00 pm,9:15 pm,HEL,JFK,14h 15m,True,2h 45m,LHR,,$730,,Momondo
+" Finnair, British Airways",4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$738,,Momondo
+" Finnair, American Airlines",4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$839,,Momondo
+" Finnair, British Airways",2:00 pm,10:10 pm,HEL,JFK,15h 10m,True,3h 45m,LHR,,$718,,Momondo
+ Finnair,7:50 am,2:00 pm,HEL,EWR,13h 10m,True,1h 35m,LHR,,$808,,Momondo
+" Finnair, British Airways",2:00 pm,9:15 pm,HEL,JFK,14h 15m,True,2h 45m,LHR,,$738,,Momondo
+" Finnair, British Airways",2:00 pm,9:15 pm,HEL,JFK,14h 15m,True,2h 45m,LHR,,$738,,Momondo
+" KLM Cityhopper, Air France",6:30 am,2:40 pm,HEL,EWR,15h 10m,True,3h 25m,CDG,,$616,,Momondo
+ Finnair,4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$750,,Momondo
+ Finnair,7:50 am,2:25 pm,HEL,JFK,13h 35m,True,2h 10m,LHR,,$766,,Momondo
+" KLM Cityhopper, Air France",6:30 am,12:55 pm,HEL,JFK,13h 25m,True,1h 35m,CDG,,$704,,Momondo
+" KLM Cityhopper, Delta",6:30 am,12:55 pm,HEL,JFK,13h 25m,True,1h 35m,CDG,,$708,,Momondo
+,2:00 pm,8:25 pm,HEL,JFK,13h 25m,True,1h 25m,FRA,,$706,,Momondo
+" Finnair, British Airways",4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$722,,Momondo
+" Finnair, American Airlines, British Airways",4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$722,,Momondo
+ British Airways,2:00 pm,10:05 pm,HEL,EWR,15h 05m,True,3h 35m,LHR,,$750,,Momondo
+" Finnair, British Airways",2:00 pm,10:05 pm,HEL,EWR,15h 05m,True,3h 35m,LHR,,$750,,Momondo
+ Nordic Reg For Finnair,2:00 pm,6:00 pm,HEL,JFK,11h 00m,True,0h 55m,KEF,,$739,,Momondo
+ Finnair,2:00 pm,10:10 pm,HEL,JFK,15h 10m,True,3h 45m,LHR,,$718,,Momondo
+ Finnair,4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$744,,Momondo
+ Finnair,2:00 pm,10:10 pm,HEL,JFK,15h 10m,True,3h 45m,LHR,,$721,,Momondo
+" KLM Cityhopper, Delta",6:30 am,2:20 pm,HEL,JFK,14h 50m,True,2h 35m,CDG,,$660,,Momondo
+ British Airways,2:00 pm,10:10 pm,HEL,JFK,15h 10m,True,3h 45m,LHR,,$727,,Momondo
+" Air France, KLM",6:30 am,2:40 pm,HEL,EWR,15h 10m,True,3h 25m,CDG,,$616,,Momondo
+,1:55 pm,7:25 pm,HEL,JFK,12h 30m,True,1h 40m,AMS,,$701,,Momondo
+" Finnair, British Airways",4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$746,,Momondo
+ British Airways,4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$975,,Momondo
+" Air France, KLM",6:30 am,12:55 pm,HEL,JFK,13h 25m,True,1h 35m,CDG,,$704,,Momondo
+ Nordic Reg For Finnair,2:00 pm,6:20 pm,HEL,EWR,11h 20m,True,1h 05m,KEF,,$739,,Momondo
+ Finnair,2:00 pm,10:10 pm,HEL,JFK,15h 10m,True,3h 45m,LHR,,$734,,Momondo
+ Finnair,4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$760,,Momondo
+ Finnair,4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$752,,Momondo
+ Delta,6:30 am,12:55 pm,HEL,JFK,13h 25m,True,1h 35m,CDG,,$708,,Momondo
+ Norra,2:00 pm,6:00 pm,HEL,JFK,11h 00m,True,0h 55m,KEF,,$735,,Momondo
+" KLM Cityhopper, Delta",7:00 am,2:20 pm,HEL,JFK,14h 20m,True,2h 55m,AMS,,$699,,Momondo
+" Nordic Reg For Finnair, British Airways",4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$762,,Momondo
+" Finnair, British Airways",2:00 pm,10:10 pm,HEL,JFK,15h 10m,True,3h 45m,LHR,,$738,,Momondo
+" Finnair, British Airways",2:00 pm,10:10 pm,HEL,JFK,15h 10m,True,3h 45m,LHR,,$738,,Momondo
+ United Airlines,2:00 pm,8:30 pm,HEL,EWR,13h 30m,True,1h 25m,FRA,,$734,,Momondo
+" Finnair, British Airways",4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$722,,Momondo
+ KLM,1:55 pm,7:25 pm,HEL,JFK,12h 30m,True,1h 40m,AMS,,$659,,Momondo
+ Delta,1:55 pm,7:25 pm,HEL,JFK,12h 30m,True,1h 40m,AMS,,$662,,Momondo
+ Finnair,2:00 pm,10:05 pm,HEL,EWR,15h 05m,True,3h 35m,LHR,,$752,,Momondo
+" KLM Cityhopper For KLM Royal Dutch Airli, Delta",6:30 am,2:40 pm,HEL,EWR,15h 10m,True,3h 25m,CDG,,$670,,Momondo
+" KLM Cityhopper, Air France",6:30 am,4:10 pm,HEL,JFK,16h 40m,True,4h 35m,CDG,,$602,,Momondo
+ Norra,2:00 pm,6:20 pm,HEL,EWR,11h 20m,True,1h 05m,KEF,,$735,,Momondo
+ Delta,6:30 am,2:20 pm,HEL,JFK,14h 50m,True,2h 35m,CDG,,$660,,Momondo
+" Finnair, Republic Airways AS American Eagle",4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$713,,Momondo
+" Finnair, American Airlines",2:00 pm,8:10 pm,HEL,JFK,13h 10m,True,1h 50m,LHR,,$775,,Momondo
+ Finnair,2:00 pm,6:00 pm,HEL,JFK,11h 00m,True,0h 55m,KEF,,$762,,Momondo
+" Finnair, American Airlines",4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$730,,Momondo
+" Finnair, British Airways",4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$752,,Momondo
+" Finnair, American Airlines, British Airways",4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$722,,Momondo
+ KLM,7:00 am,2:20 pm,HEL,JFK,14h 20m,True,2h 55m,AMS,,$696,,Momondo
+" KLM Cityhopper For KLM Royal Dutch Airli, Delta",6:30 am,2:20 pm,HEL,JFK,14h 50m,True,2h 35m,CDG,,$704,,Momondo
+ Delta,7:00 am,2:20 pm,HEL,JFK,14h 20m,True,2h 55m,AMS,,$699,,Momondo
+" Finnair, British Airways",4:55 pm,6:55 pm,HEL,JFK,9h 00m,True,,,,$722,,Momondo
+" Finnair, American Airlines",2:00 pm,8:10 pm,HEL,JFK,13h 10m,True,1h 50m,LHR,,$775,,Momondo
+" KLM, Air France",1:55 pm,7:25 pm,HEL,JFK,12h 30m,True,1h 40m,AMS,,$652,,Momondo
+ United Airlines,2:00 pm,8:25 pm,HEL,JFK,13h 25m,True,1h 25m,FRA,,$761,,Momondo
+ Finnair,5:20 pm,7:05 pm,HEL,JFK,8h 45m,True,,,,$889,,Kayak
+,7:40 pm,4:30 am+1,HEL,JFK,15h 50m,True,1h 15m,IST,,$753,,Kayak
+ Finnair,5:20 pm,7:05 pm,HEL,JFK,8h 45m,True,,,,"$1,052",,Kayak
+ Finnair,5:20 pm,7:05 pm,HEL,JFK,8h 45m,True,,,,"$1,104",,Kayak
+,5:20 pm,7:05 pm,HEL,JFK,8h 45m,True,,,,"$1,105",,Kayak
+ SmartLynx,9:20 am,12:55 pm,HEL,EWR,10h 35m,True,1h 00m,ARN,,$805,,Kayak
+,10:00 am,2:55 pm,HEL,EWR,11h 55m,True,1h 45m,CPH,,$863,,Kayak
+ Jettime A/S,4:55 pm,10:00 pm,HEL,JFK,12h 05m,True,1h 45m,CPH,,$863,,Kayak
+ Finnair,4:00 pm,9:50 pm,HEL,JFK,12h 50m,True,2h 00m,LHR,,$904,,Kayak
+,3:05 pm,7:10 pm,HEL,JFK,11h 05m,True,1h 15m,KEF,,$946,,Kayak
+ SAS Connect,7:10 am,12:55 pm,HEL,EWR,12h 45m,True,3h 15m,ARN,,$805,,Kayak
+ Finnair,5:20 pm,7:05 pm,HEL,JFK,8h 45m,True,,,,"$1,257",,Kayak
+ SmartLynx,9:20 am,12:55 pm,HEL,EWR,10h 35m,True,1h 00m,ARN,,$815,,Kayak
+ Finnair,4:00 pm,9:50 pm,HEL,JFK,12h 50m,True,2h 00m,LHR,,$945,,Kayak
+" SAS Connect, Xfly, SmartLynx",9:20 am,12:55 pm,HEL,EWR,10h 35m,True,1h 00m,ARN,,$847,,Kayak
+" SAS Connect, Xfly, SmartLynx",9:20 am,12:55 pm,HEL,EWR,10h 35m,True,1h 00m,ARN,,$851,,Kayak
+" Xfly, SmartLynx",9:20 am,12:55 pm,HEL,EWR,10h 35m,True,1h 00m,ARN,,$914,,Kayak
+" Finnair, British Airways",4:00 pm,9:50 pm,HEL,JFK,12h 50m,True,2h 00m,LHR,,$971,,Kayak
+" Finnair, British Airways",4:00 pm,9:50 pm,HEL,JFK,12h 50m,True,2h 00m,LHR,,$971,,Kayak
+" Finnair, American Airlines",5:20 pm,7:05 pm,HEL,JFK,8h 45m,True,,,,$984,,Kayak
+" Finnair, British Airways",4:00 pm,9:50 pm,HEL,JFK,12h 50m,True,2h 00m,LHR,,$980,,Kayak
+" Finnair, American Airlines",5:20 pm,7:05 pm,HEL,JFK,8h 45m,True,,,,"$1,071",,Kayak
+" Finnair, British Airways",4:00 pm,9:50 pm,HEL,JFK,12h 50m,True,2h 00m,LHR,,$987,,Kayak
+" Finnair, American Airlines",4:00 pm,10:53 pm,HEL,JFK,13h 53m,True,2h 50m,LHR,,$913,,Kayak
+ Finnair,5:20 pm,7:05 pm,HEL,JFK,8h 45m,True,,,,"$1,004",,Kayak
+" Finnair, American Airlines",5:20 pm,7:05 pm,HEL,JFK,8h 45m,True,,,,"$1,083",,Kayak
+ Finnair,5:20 pm,7:05 pm,HEL,JFK,8h 45m,True,,,,"$1,373",,Kayak
+ SAS Connect,7:10 am,1:15 pm,HEL,EWR,13h 05m,True,2h 15m,ARN,,$858,,Kayak
+ SAS Connect,7:10 am,1:15 pm,HEL,EWR,13h 05m,True,0h 35m,ARN,,$862,,Kayak
+,3:05 pm,7:15 pm,HEL,EWR,11h 10m,True,1h 15m,KEF,,"$1,076",,Kayak
+ Finnair,5:20 pm,7:05 pm,HEL,JFK,8h 45m,True,,,,$966,,Kayak
+ Finnair,5:20 pm,7:05 pm,HEL,JFK,8h 45m,True,,,,"$1,399",,Kayak
+" Xfly, SmartLynx",9:20 am,12:55 pm,HEL,EWR,10h 35m,True,1h 00m,ARN,,$837,,Kayak
+ Finnair,5:20 pm,7:05 pm,HEL,JFK,8h 45m,True,,,,"$1,441",,Kayak
+ Jettime A/S,7:00 am,2:55 pm,HEL,EWR,14h 55m,True,4h 45m,CPH,,$811,,Kayak
+ Lufthansa CityLine,12:45 pm,6:45 pm,HEL,EWR,13h 00m,True,1h 25m,MUC,,$904,,Kayak
+,10:00 am,2:55 pm,HEL,EWR,11h 55m,True,1h 45m,CPH,,$873,,Kayak
+ Jettime A/S,4:55 pm,10:00 pm,HEL,JFK,12h 05m,True,1h 45m,CPH,,$873,,Kayak
+ SAS Connect,7:10 am,12:55 pm,HEL,EWR,12h 45m,True,3h 15m,ARN,,$815,,Kayak
+" SAS Connect, Xfly",10:00 am,2:55 pm,HEL,EWR,11h 55m,True,1h 45m,CPH,,$905,,Kayak
+" SAS Connect, Xfly, Jettime A/S",4:55 pm,10:00 pm,HEL,JFK,12h 05m,True,1h 45m,CPH,,$905,,Kayak
+" SAS Connect, Xfly",10:00 am,2:55 pm,HEL,EWR,11h 55m,True,1h 45m,CPH,,$909,,Kayak
+ Xfly,10:00 am,2:55 pm,HEL,EWR,11h 55m,True,1h 45m,CPH,,$973,,Kayak
+" SAS Connect, Xfly, Jettime A/S",4:55 pm,10:00 pm,HEL,JFK,12h 05m,True,1h 45m,CPH,,$909,,Kayak
+ SAS Connect,2:45 pm,10:00 pm,HEL,JFK,14h 15m,True,2h 35m,ARN,,$895,,Kayak
+ American Airlines,7:35 am,2:38 pm,HEL,JFK,14h 03m,True,2h 35m,CDG,,"$1,067",,Kayak
+ Lufthansa CityLine,6:40 am,1:45 pm,HEL,JFK,14h 05m,True,2h 45m,FRA,,$904,,Kayak
+ Finnair,5:20 pm,7:05 pm,HEL,JFK,8h 45m,True,,,,$966,,Kayak
+ SAS Connect,7:10 am,1:15 pm,HEL,EWR,13h 05m,True,2h 15m,ARN,,$869,,Kayak
+" Finnair, American Airlines",2:05 pm,7:58 pm,HEL,JFK,12h 53m,True,1h 50m,LHR,,"$1,221",,Kayak
+" Finnair, British Airways",4:00 pm,9:50 pm,HEL,JFK,12h 50m,True,2h 00m,LHR,,$818,,Kayak
+ Finnair,5:20 pm,7:05 pm,HEL,JFK,8h 45m,True,,,,"$1,557",,Kayak
+ Lufthansa CityLine,12:45 pm,6:45 pm,HEL,EWR,13h 00m,True,1h 25m,MUC,,$965,,Kayak
+ Finnair,5:20 pm,7:05 pm,HEL,JFK,8h 45m,True,,,,"$1,156",,Kayak
+ Finnair,4:00 pm,10:53 pm,HEL,JFK,13h 53m,True,2h 50m,LHR,,$818,,Kayak
+" United Airlines, Lufthansa CityLine",12:45 pm,6:45 pm,HEL,EWR,13h 00m,True,1h 25m,MUC,,$965,,Kayak
+ Lufthansa CityLine,12:45 pm,6:45 pm,HEL,EWR,13h 00m,True,1h 25m,MUC,,$965,,Kayak
+" Finnair, American Airlines",5:20 pm,7:05 pm,HEL,JFK,8h 45m,True,,,,$984,,Kayak
+" Lufthansa CityLine, Mesa Airlines DBA United Express",12:45 pm,6:45 pm,HEL,EWR,13h 00m,True,1h 25m,MUC,,$887,,Kayak
+ Finnair,5:20 pm,7:05 pm,HEL,JFK,8h 45m,True,,,,$894,,Kayak
+ Finnair,5:20 pm,7:05 pm,HEL,JFK,8h 45m,True,,,,"$1,736",,Kayak
+" Finnair, American Airlines",5:20 pm,7:05 pm,HEL,JFK,8h 45m,True,,,,"$1,173",,Kayak
+ Finnair,5:20 pm,7:05 pm,HEL,JFK,8h 45m,True,,,,"$1,173",,Kayak
+ American Airlines,7:35 am,2:38 pm,HEL,JFK,14h 03m,True,2h 35m,CDG,,"$1,067",,Kayak
+" Finnair, British Airways",5:20 pm,7:05 pm,HEL,JFK,8h 45m,True,,,,"$1,173",,Kayak
+" Finnair, American Airlines",5:20 pm,7:05 pm,HEL,JFK,8h 45m,True,,,,"$1,189",,Kayak
+" Finnair, Aer Lingus (U.K.) Limited For Aer Lingus",5:20 pm,7:05 pm,HEL,JFK,8h 45m,True,,,,"$1,184",,Kayak
+" SAS Connect, Xfly, SmartLynx",9:20 am,12:55 pm,HEL,EWR,10h 35m,True,1h 00m,ARN,,$851,,Kayak
+" SAS Connect, Xfly, SmartLynx",9:20 am,12:55 pm,HEL,EWR,10h 35m,True,1h 00m,ARN,,$851,,Kayak
+ Lufthansa CityLine,6:40 am,1:45 pm,HEL,JFK,14h 05m,True,2h 45m,FRA,,$904,,Kayak
+ Finnair,5:20 pm,7:05 pm,HEL,JFK,8h 45m,True,,,,"$1,193",,Kayak
+ Lufthansa CityLine,12:45 pm,6:45 pm,HEL,EWR,13h 00m,True,1h 25m,MUC,,$971,,Kayak
+ Finnair,5:20 pm,7:05 pm,HEL,JFK,8h 45m,True,,,,$966,,Kayak
+ Finnair,5:20 pm,7:05 pm,HEL,JFK,8h 45m,True,,,,"$1,252",,Kayak
+,1:55 pm,7:15 pm,HEL,JFK,12h 20m,True,1h 50m,AMS,,$981,,Kayak
+" Lufthansa, Lufthansa CityLine",6:40 am,1:45 pm,HEL,JFK,14h 05m,True,2h 45m,FRA,,$933,,Kayak
+ SmartLynx,9:20 am,12:55 pm,HEL,EWR,10h 35m,True,1h 00m,ARN,,$815,,Kayak
+ SAS Connect,7:10 am,1:15 pm,HEL,EWR,13h 05m,True,2h 15m,ARN,,$869,,Kayak
+" United Airlines, Lufthansa CityLine",12:45 pm,6:45 pm,HEL,EWR,13h 00m,True,1h 25m,MUC,,"$1,031",,Kayak
+ SAS Connect,7:10 am,1:15 pm,HEL,EWR,13h 05m,True,0h 35m,ARN,,$873,,Kayak
+ Finnair,8:00 am,5:30 pm,HEL,JFK,16h 30m,True,5h 25m,LHR,,$945,,Kayak
+ American Airlines,2:05 pm,7:58 pm,HEL,JFK,12h 53m,True,1h 50m,LHR,,"$1,229",,Kayak
+" Lufthansa, Lufthansa CityLine",6:40 am,1:45 pm,HEL,JFK,14h 05m,True,2h 45m,FRA,,$933,,Kayak
+" Finnair, American Airlines",2:05 pm,7:58 pm,HEL,JFK,12h 53m,True,1h 50m,LHR,,"$1,233",,Kayak
+ Finnair,5:20 pm,7:05 pm,HEL,JFK,8h 45m,True,,,,"$1,557",,Kayak
+" Lufthansa, Lufthansa CityLine",1:40 pm,8:05 pm,HEL,JFK,13h 25m,True,1h 55m,FRA,,"$1,001",,Kayak
+" SAS Connect, Xfly",7:10 am,12:55 pm,HEL,EWR,12h 45m,True,3h 15m,ARN,,$837,,Kayak
+" SAS Connect, Xfly",7:10 am,1:15 pm,HEL,EWR,13h 05m,True,2h 15m,ARN,,$968,,Kayak
+" SAS Connect, Xfly",7:10 am,1:15 pm,HEL,EWR,13h 05m,True,0h 35m,ARN,,$972,,Kayak
+ Lufthansa CityLine,12:45 pm,6:45 pm,HEL,EWR,13h 00m,True,1h 25m,MUC,,$965,,Kayak
+" Finnair, American Airlines",2:05 pm,7:58 pm,HEL,JFK,12h 53m,True,1h 50m,LHR,,"$1,221",,Kayak
+ Jettime A/S,7:00 am,2:55 pm,HEL,EWR,14h 55m,True,4h 45m,CPH,,$821,,Kayak
+,7:00 am,3:25 pm,HEL,JFK,15h 25m,True,4h 50m,AMS,,$818,,Kayak
+" Finnair, British Airways",4:00 pm,9:50 pm,HEL,JFK,12h 50m,True,2h 00m,LHR,,$818,,Kayak
+" Finnair, American Airlines, British Airways",4:00 pm,9:50 pm,HEL,JFK,12h 50m,True,2h 00m,LHR,,$977,,Kayak
+" United Airlines, Lufthansa CityLine",12:45 pm,6:45 pm,HEL,EWR,13h 00m,True,1h 25m,MUC,,$971,,Kayak
+,6:40 am,1:45 pm,HEL,JFK,14h 05m,True,2h 45m,FRA,,$967,,Kayak
+ Lufthansa CityLine,6:10 am,3:00 pm,HEL,JFK,15h 50m,True,4h 25m,MUC,,$884,,Kayak
+" SAS Connect, Xfly, Jettime A/S",7:00 am,2:55 pm,HEL,EWR,14h 55m,True,4h 45m,CPH,,$857,,Kayak
+" American Airlines, British Airways",4:00 pm,9:50 pm,HEL,JFK,12h 50m,True,2h 00m,LHR,,$992,,Kayak
+" Xfly, Jettime A/S",7:00 am,2:55 pm,HEL,EWR,14h 55m,True,4h 45m,CPH,,$920,,Kayak
+ Lufthansa CityLine,12:45 pm,8:05 pm,HEL,JFK,14h 20m,True,0h 40m,MUC,,$946,,Kayak
+" Finnair, British Airways",4:00 pm,9:50 pm,HEL,JFK,12h 50m,True,2h 00m,LHR,,"$1,292",,Kayak
+" Lufthansa, Lufthansa CityLine",12:45 pm,6:45 pm,HEL,EWR,13h 00m,True,1h 25m,MUC,,$971,,Kayak
+ Finnair,2:05 pm,9:00 pm,HEL,JFK,13h 55m,True,2h 55m,LHR,,"$1,221",,Kayak
+ Finnair,5:20 pm,7:05 pm,HEL,JFK,8h 45m,True,,,,"$1,156",,Kayak
+" SAS Connect, Xfly, Jettime A/S",7:00 am,2:55 pm,HEL,EWR,14h 55m,True,4h 45m,CPH,,$853,,Kayak
+,3:05 pm,10:14 pm,HEL,JFK,14h 09m,True,1h 25m,KEF,,"$1,075",,Kayak
+ Lufthansa,6:40 am,1:45 pm,HEL,JFK,14h 05m,True,2h 45m,FRA,,"$1,033",,Kayak
+,1:40 pm,8:05 pm,HEL,JFK,13h 25m,True,1h 55m,FRA,,"$1,062",,Kayak
+" Finnair, American Airlines",5:20 pm,7:05 pm,HEL,JFK,8h 45m,True,,,,"$1,071",,Kayak
+" Finnair, British Airways",4:00 pm,9:50 pm,HEL,JFK,12h 50m,True,2h 00m,LHR,,$962,,Kayak
+ Lufthansa,6:40 am,1:45 pm,HEL,JFK,14h 05m,True,2h 45m,FRA,,$905,,Kayak
+ Finnair,4:00 pm,9:50 pm,HEL,JFK,12h 50m,True,2h 00m,LHR,,$967,,Kayak
+" United Airlines, Lufthansa CityLine",6:40 am,1:45 pm,HEL,JFK,14h 05m,True,2h 45m,FRA,,"$1,033",,Kayak
+" Finnair, American Airlines",4:00 pm,9:50 pm,HEL,JFK,12h 50m,True,2h 00m,LHR,,$952,,Kayak
+ SAS Connect,7:10 am,2:55 pm,HEL,EWR,14h 45m,True,0h 50m,ARN,,$853,,Kayak
+ Lufthansa CityLine,6:10 am,1:45 pm,HEL,JFK,14h 35m,True,1h 15m,MUC,,$946,,Kayak
+ SAS Connect,7:10 am,2:55 pm,HEL,EWR,14h 45m,True,2h 45m,ARN,,$857,,Kayak
+ SAS Connect,2:45 pm,10:00 pm,HEL,JFK,14h 15m,True,2h 35m,ARN,,$905,,Kayak
+ British Airways,4:00 pm,9:50 pm,HEL,JFK,12h 50m,True,2h 00m,LHR,,"$1,329",,Kayak
+,6:40 am,1:45 pm,HEL,JFK,14h 05m,True,2h 45m,FRA,,$950,,Kayak
+ SmartLynx,9:20 am,12:55 pm,HEL,EWR,10h 35m,True,1h 00m,ARN,,$815,,Kayak
+ Delta,7:00 am,1:25 pm,HEL,JFK,13h 25m,True,2h 20m,AMS,,"$1,021",,Kayak
+" United Airlines, Lufthansa CityLine",12:45 pm,6:45 pm,HEL,EWR,13h 00m,True,1h 25m,MUC,,$965,,Kayak
+ Lufthansa CityLine,12:45 pm,6:45 pm,HEL,EWR,13h 00m,True,1h 25m,MUC,,$965,,Kayak
+ Finnair,5:20 pm,7:05 pm,HEL,JFK,8h 45m,True,,,,"$1,180",,Kayak
+,1:55 pm,7:15 pm,HEL,JFK,12h 20m,True,1h 50m,AMS,,$973,,Kayak
+" Finnair, American Airlines, British Airways",5:20 pm,7:05 pm,HEL,JFK,8h 45m,True,,,,"$1,080",,Kayak
+" United Airlines, Lufthansa, Lufthansa CityLine",12:45 pm,6:45 pm,HEL,EWR,13h 00m,True,1h 25m,MUC,,$971,,Kayak
+ Lufthansa,1:40 pm,8:05 pm,HEL,JFK,13h 25m,True,1h 55m,FRA,,"$1,127",,Kayak
+" SAS Connect, Xfly",7:10 am,2:55 pm,HEL,EWR,14h 45m,True,0h 50m,ARN,,$952,,Kayak
+ Lufthansa CityLine,12:45 pm,6:45 pm,HEL,EWR,13h 00m,True,1h 25m,MUC,,"$1,013",,Kayak
+" Finnair, American Airlines",5:20 pm,7:05 pm,HEL,JFK,8h 45m,True,,,,$984,,Kayak
+ Lufthansa,1:40 pm,8:05 pm,HEL,JFK,13h 25m,True,1h 55m,FRA,,$999,,Kayak
+" SAS Connect, Xfly",7:10 am,2:55 pm,HEL,EWR,14h 45m,True,2h 45m,ARN,,$956,,Kayak
+Finnair ,4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$679 ,eDreams,Booking.com
+"KLM Cityhopper, Air France ",6:30 ,5:25 ,HEL,JFK,17h 55m,False,5h 35m ,CDG,Paris Charles de Gaulle,$597 ,Delta,Booking.com
+Finnair ,4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$683 ,American Airlines,Booking.com
+Finnair ,4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$694 ,eDreams,Booking.com
+Finnair ,4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$715 ,Gurufare,Booking.com
+Finnair ,4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$715 ,Gurufare,Booking.com
+Finnair ,4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$715 ,Gurufare,Booking.com
+Finnair ,4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$715 ,Gurufare,Booking.com
+Finnair ,4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$715 ,Gurufare,Booking.com
+Finnair ,4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$715 ,Gurufare,Booking.com
+"KLM Cityhopper, KLM ",1:55 ,7:25 ,HEL,JFK,12h 30m,False,1h 40m ,AMS,Amsterdam Schiphol,$659 ,Delta,Booking.com
+"KLM Cityhopper, Delta ",1:55 ,7:25 ,HEL,JFK,12h 30m,False,1h 40m ,AMS,Amsterdam Schiphol,$662 ,KLM,Booking.com
+KLM ,1:55 ,7:25 ,HEL,JFK,12h 30m,False,1h 40m ,AMS,Amsterdam Schiphol,$659 ,Delta,Booking.com
+American Airlines ,7:35 ,2:30 ,HEL,JFK,13h 55m,False,1h 40m ,CDG,Paris Charles de Gaulle,$710 ,Priceline,Booking.com
+Finnair ,7:35 ,2:30 ,HEL,JFK,13h 55m,False,1h 40m ,CDG,Paris Charles de Gaulle,$710 ,American Airlines,Booking.com
+"Finnair, American Airlines ",2:00 ,8:10 ,HEL,JFK,13h 10m,False,1h 50m ,LHR,London Heathrow,$715 ,eDreams,Booking.com
+Finnair ,4:00 ,10:10 ,HEL,JFK,13h 10m,False,2h ,LHR,London Heathrow,$715 ,eDreams,Booking.com
+"Finnair, American Airlines ",4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$736 ,Gurufare,Booking.com
+Finnair ,2:00 ,8:10 ,HEL,JFK,13h 10m,False,1h 50m ,LHR,London Heathrow,$718 ,American Airlines,Booking.com
+American Airlines ,2:00 ,8:10 ,HEL,JFK,13h 10m,False,1h 50m ,LHR,London Heathrow,$718 ,Priceline,Booking.com
+Finnair ,4:00 ,10:10 ,HEL,JFK,13h 10m,False,2h ,LHR,London Heathrow,$718 ,Iberia,Booking.com
+"Finnair, British Airways ",4:00 ,10:10 ,HEL,JFK,13h 10m,False,2h ,LHR,London Heathrow,$718 ,American Airlines,Booking.com
+"Finnair, British Airways ",4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$746 ,American Airlines,Booking.com
+Finnair ,4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$746 ,American Airlines,Booking.com
+Finnair ,4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$752 ,Gurufare,Booking.com
+Finnair ,4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$752 ,Gurufare,Booking.com
+"Finnair, American Airlines ",2:00 ,8:10 ,HEL,JFK,13h 10m,False,1h 50m ,LHR,London Heathrow,$729 ,eDreams,Booking.com
+Finnair ,4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$752 ,Gurufare,Booking.com
+"Finnair, American Airlines ",4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$752 ,Gurufare,Booking.com
+"Finnair, American Airlines ",4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$752 ,Gurufare,Booking.com
+"Finnair, American Airlines ",2:00 ,8:10 ,HEL,JFK,13h 10m,False,1h 50m ,LHR,London Heathrow,$730 ,OneTravel,Booking.com
+"Finnair, British Airways ",4:00 ,10:10 ,HEL,JFK,13h 10m,False,2h ,LHR,London Heathrow,$729 ,eDreams,Booking.com
+Finnair ,4:00 ,10:10 ,HEL,JFK,13h 10m,False,2h ,LHR,London Heathrow,$730 ,OneTravel,Booking.com
+American Airlines ,4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$762 ,Gurufare,Booking.com
+British Airways ,4:00 ,10:10 ,HEL,JFK,13h 10m,False,2h ,LHR,London Heathrow,$734 ,Gurufare,Booking.com
+"Finnair, American Airlines ",7:50 ,1:45 ,HEL,JFK,12h 55m,False,1h 25m ,LHR,London Heathrow,$750 ,Gurufare,Booking.com
+"Finnair, British Airways ",4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$746 ,American Airlines,Booking.com
+Finnair ,4:00 ,10:05 ,HEL,EWR,13h 05m,False,1h 50m ,LHR,London Heathrow,$746 ,eDreams,Booking.com
+Finnair ,4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$752 ,Gurufare,Booking.com
+British Airways ,4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$794 ,OneTravel,Booking.com
+American Airlines ,7:50 ,1:45 ,HEL,JFK,12h 55m,False,1h 25m ,LHR,London Heathrow,$760 ,Priceline,Booking.com
+American Airlines ,4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$716 ,Gurufare,Booking.com
+Finnair ,4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$743 ,eDreams,Booking.com
+"Finnair, British Airways ",4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$746 ,American Airlines,Booking.com
+Finnair ,4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$746 ,American Airlines,Booking.com
+Finnair ,4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$743 ,eDreams,Booking.com
+Finnair ,4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$743 ,eDreams,Booking.com
+"Finnair, British Airways ",4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$746 ,American Airlines,Booking.com
+British Airways ,4:00 ,10:05 ,HEL,EWR,13h 05m,False,1h 50m ,LHR,London Heathrow,$766 ,Gurufare,Booking.com
+Delta ,1:55 ,7:25 ,HEL,JFK,12h 30m,False,1h 40m ,AMS,Amsterdam Schiphol,$662 ,KLM,Booking.com
+Finnair ,4:00 ,10:10 ,HEL,JFK,13h 10m,False,2h ,LHR,London Heathrow,$734 ,Gurufare,Booking.com
+Finnair ,2:00 ,9:15 ,HEL,JFK,14h 15m,False,2h 45m ,LHR,London Heathrow,$715 ,eDreams,Booking.com
+"Finnair, British Airways ",2:00 ,9:15 ,HEL,JFK,14h 15m,False,2h 45m ,LHR,London Heathrow,$718 ,American Airlines,Booking.com
+"Finnair, British Airways ",4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$746 ,American Airlines,Booking.com
+"Finnair, British Airways ",4:00 ,10:10 ,HEL,JFK,13h 10m,False,2h ,LHR,London Heathrow,$746 ,eDreams,Booking.com
+Finnair ,4:00 ,10:05 ,HEL,EWR,13h 05m,False,1h 50m ,LHR,London Heathrow,$750 ,Iberia,Booking.com
+"Finnair, British Airways ",4:00 ,10:05 ,HEL,EWR,13h 05m,False,1h 50m ,LHR,London Heathrow,$750 ,American Airlines,Booking.com
+British Airways ,4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$854 ,eDreams,Booking.com
+"Finnair, American Airlines ",2:00 ,8:10 ,HEL,JFK,13h 10m,False,1h 50m ,LHR,London Heathrow,$746 ,eDreams,Booking.com
+Finnair ,4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$716 ,American Airlines,Booking.com
+"Finnair, British Airways ",4:00 ,10:10 ,HEL,JFK,13h 10m,False,2h ,LHR,London Heathrow,$750 ,OneTravel,Booking.com
+"Finnair, British Airways ",4:00 ,10:10 ,HEL,JFK,13h 10m,False,2h ,LHR,London Heathrow,$750 ,Gurufare,Booking.com
+Finnair ,4:00 ,10:10 ,HEL,JFK,13h 10m,False,2h ,LHR,London Heathrow,$750 ,Gurufare,Booking.com
+"Finnair, British Airways ",4:00 ,10:10 ,HEL,JFK,13h 10m,False,2h ,LHR,London Heathrow,$750 ,Gurufare,Booking.com
+"Finnair, British Airways ",4:00 ,10:10 ,HEL,JFK,13h 10m,False,2h ,LHR,London Heathrow,$750 ,Gurufare,Booking.com
+"Finnair, British Airways ",4:00 ,10:10 ,HEL,JFK,13h 10m,False,2h ,LHR,London Heathrow,$750 ,Gurufare,Booking.com
+"Finnair, American Airlines ",2:00 ,8:10 ,HEL,JFK,13h 10m,False,1h 50m ,LHR,London Heathrow,$750 ,OneTravel,Booking.com
+Finnair ,4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$750 ,Gurufare,Booking.com
+"Finnair, American Airlines ",2:00 ,8:10 ,HEL,JFK,13h 10m,False,1h 50m ,LHR,London Heathrow,$750 ,Gurufare,Booking.com
+"Finnair, American Airlines ",2:00 ,8:10 ,HEL,JFK,13h 10m,False,1h 50m ,LHR,London Heathrow,$750 ,Gurufare,Booking.com
+"Finnair, American Airlines ",2:00 ,8:10 ,HEL,JFK,13h 10m,False,1h 50m ,LHR,London Heathrow,$750 ,Gurufare,Booking.com
+"Finnair, American Airlines ",2:00 ,8:10 ,HEL,JFK,13h 10m,False,1h 50m ,LHR,London Heathrow,$750 ,Gurufare,Booking.com
+Xfly ,9:10 ,1:35 ,HEL,EWR,11h 25m,False,1h 20m ,ARN,Stockholm Arlanda,$716 ,eDreams,Booking.com
+British Airways ,2:00 ,9:15 ,HEL,JFK,14h 15m,False,2h 45m ,LHR,London Heathrow,$734 ,Gurufare,Booking.com
+Finnair ,4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$794 ,Gurufare,Booking.com
+Finnair ,7:50 ,1:45 ,HEL,JFK,12h 55m,False,1h 25m ,LHR,London Heathrow,$760 ,American Airlines,Booking.com
+British Airways ,4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$836 ,Finnair,Booking.com
+"Finnair, British Airways ",7:50 ,2:25 ,HEL,JFK,13h 35m,False,2h 10m ,LHR,London Heathrow,$760 ,American Airlines,Booking.com
+Xfly ,9:10 ,1:35 ,HEL,EWR,11h 25m,False,1h 20m ,ARN,Stockholm Arlanda,$696 ,eDreams,Booking.com
+Finnair ,7:50 ,2:25 ,HEL,JFK,13h 35m,False,2h 10m ,LHR,London Heathrow,$766 ,Gurufare,Booking.com
+"Finnair, American Airlines ",7:35 ,2:30 ,HEL,JFK,13h 55m,False,1h 40m ,CDG,Paris Charles de Gaulle,$721 ,Gurufare,Booking.com
+"Finnair, American Airlines ",7:35 ,2:30 ,HEL,JFK,13h 55m,False,1h 40m ,CDG,Paris Charles de Gaulle,$721 ,Gurufare,Booking.com
+Finnair ,4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$744 ,Gurufare,Booking.com
+Finnair ,2:00 ,9:15 ,HEL,JFK,14h 15m,False,2h 45m ,LHR,London Heathrow,$718 ,Iberia,Booking.com
+"Finnair, American Airlines ",4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$832 ,eDreams,Booking.com
+"Finnair, British Airways ",4:00 ,10:05 ,HEL,EWR,13h 05m,False,1h 50m ,LHR,London Heathrow,$782 ,Gurufare,Booking.com
+Finnair ,4:00 ,10:05 ,HEL,EWR,13h 05m,False,1h 50m ,LHR,London Heathrow,$782 ,Gurufare,Booking.com
+"Finnair, American Airlines ",4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$756 ,Gurufare,Booking.com
+Finnair ,4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$750 ,Gurufare,Booking.com
+Finnair ,2:00 ,10:10 ,HEL,JFK,15h 10m,False,3h 45m ,LHR,London Heathrow,$715 ,eDreams,Booking.com
+"Finnair, American Airlines ",4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$748 ,Gurufare,Booking.com
+"Finnair, American Airlines ",4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$748 ,Gurufare,Booking.com
+Finnair ,2:00 ,9:15 ,HEL,JFK,14h 15m,False,2h 45m ,LHR,London Heathrow,$730 ,OneTravel,Booking.com
+"Finnair, American Airlines ",7:35 ,2:30 ,HEL,JFK,13h 55m,False,1h 40m ,CDG,Paris Charles de Gaulle,$741 ,Gurufare,Booking.com
+"Finnair, American Airlines ",7:35 ,2:30 ,HEL,JFK,13h 55m,False,1h 40m ,CDG,Paris Charles de Gaulle,$741 ,Gurufare,Booking.com
+"Finnair, American Airlines ",7:35 ,2:30 ,HEL,JFK,13h 55m,False,1h 40m ,CDG,Paris Charles de Gaulle,$741 ,Gurufare,Booking.com
+Finnair ,7:50 ,2:00 ,HEL,EWR,13h 10m,False,1h 35m ,LHR,London Heathrow,$808 ,Gurufare,Booking.com
+"KLM Cityhopper, Air France ",6:30 ,2:40 ,HEL,EWR,15h 10m,False,3h 25m ,CDG,Paris Charles de Gaulle,$616 ,Delta,Booking.com
+Finnair ,4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$750 ,Gurufare,Booking.com
+"KLM Cityhopper, Air France ",6:30 ,12:55 ,HEL,JFK,13h 25m,False,1h 35m ,CDG,Paris Charles de Gaulle,$704 ,Delta,Booking.com
+British Airways ,2:00 ,10:10 ,HEL,JFK,15h 10m,False,3h 45m ,LHR,London Heathrow,$734 ,Gurufare,Booking.com
+"KLM Cityhopper, Delta ",6:30 ,12:55 ,HEL,JFK,13h 25m,False,1h 35m ,CDG,Paris Charles de Gaulle,$708 ,KLM,Booking.com
+"Finnair, British Airways ",2:00 ,9:15 ,HEL,JFK,14h 15m,False,2h 45m ,LHR,London Heathrow,$750 ,OneTravel,Booking.com
+"Finnair, British Airways ",2:00 ,9:15 ,HEL,JFK,14h 15m,False,2h 45m ,LHR,London Heathrow,$750 ,Gurufare,Booking.com
+Finnair ,2:00 ,9:15 ,HEL,JFK,14h 15m,False,2h 45m ,LHR,London Heathrow,$750 ,Gurufare,Booking.com
+"Finnair, British Airways ",2:00 ,9:15 ,HEL,JFK,14h 15m,False,2h 45m ,LHR,London Heathrow,$750 ,Gurufare,Booking.com
+American Airlines ,7:35 ,2:30 ,HEL,JFK,13h 55m,False,1h 40m ,CDG,Paris Charles de Gaulle,$757 ,Gurufare,Booking.com
+"Finnair, American Airlines ",7:35 ,2:30 ,HEL,JFK,13h 55m,False,1h 40m ,CDG,Paris Charles de Gaulle,$757 ,Gurufare,Booking.com
+Finnair ,2:00 ,10:05 ,HEL,EWR,15h 05m,False,3h 35m ,LHR,London Heathrow,$746 ,eDreams,Booking.com
+Finnair ,2:00 ,10:10 ,HEL,JFK,15h 10m,False,3h 45m ,LHR,London Heathrow,$718 ,Iberia,Booking.com
+"Finnair, British Airways ",2:00 ,10:10 ,HEL,JFK,15h 10m,False,3h 45m ,LHR,London Heathrow,$718 ,American Airlines,Booking.com
+Nordic Reg For Finnair ,2:00 ,6:00 ,HEL,JFK,11h 00m,False,55m ,KEF,Reykjavik Keflavik Intl,$739 ,mytrip.com,Booking.com
+Finnair ,4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$744 ,Gurufare,Booking.com
+"KLM Cityhopper, Delta ",6:30 ,2:20 ,HEL,JFK,14h 50m,False,2h 35m ,CDG,Paris Charles de Gaulle,$660 ,KLM,Booking.com
+"Air France, KLM ",6:30 ,2:40 ,HEL,EWR,15h 10m,False,3h 25m ,CDG,Paris Charles de Gaulle,$616 ,Delta,Booking.com
+British Airways ,2:00 ,10:05 ,HEL,EWR,15h 05m,False,3h 35m ,LHR,London Heathrow,$766 ,Gurufare,Booking.com
+"Air France, KLM ",6:30 ,12:55 ,HEL,JFK,13h 25m,False,1h 35m ,CDG,Paris Charles de Gaulle,$704 ,Delta,Booking.com
+Nordic Reg For Finnair ,2:00 ,6:20 ,HEL,EWR,11h 20m,False,1h 05m ,KEF,Reykjavik Keflavik Intl,$739 ,mytrip.com,Booking.com
+Finnair ,2:00 ,10:10 ,HEL,JFK,15h 10m,False,3h 45m ,LHR,London Heathrow,$734 ,Gurufare,Booking.com
+"KLM Cityhopper, KLM ",7:00 ,2:20 ,HEL,JFK,14h 20m,False,2h 55m ,AMS,Amsterdam Schiphol,$696 ,Delta,Booking.com
+Finnair ,4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$752 ,Gurufare,Booking.com
+Finnair ,4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$760 ,American Airlines,Booking.com
+Delta ,6:30 ,12:55 ,HEL,JFK,13h 25m,False,1h 35m ,CDG,Paris Charles de Gaulle,$708 ,KLM,Booking.com
+Norra ,2:00 ,6:00 ,HEL,JFK,11h 00m,False,55m ,KEF,Reykjavik Keflavik Intl,$735 ,mytrip.com,Booking.com
+"KLM Cityhopper, Delta ",7:00 ,2:20 ,HEL,JFK,14h 20m,False,2h 55m ,AMS,Amsterdam Schiphol,$699 ,KLM,Booking.com
+United Airlines ,2:00 ,8:30 ,HEL,EWR,13h 30m,False,1h 25m ,FRA,Frankfurt am Main,$734 ,Kiwi.com,Booking.com
+KLM ,1:55 ,7:25 ,HEL,JFK,12h 30m,False,1h 40m ,AMS,Amsterdam Schiphol,$659 ,Delta,Booking.com
+Finnair ,4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$751 ,American Airlines,Booking.com
+Delta ,1:55 ,7:25 ,HEL,JFK,12h 30m,False,1h 40m ,AMS,Amsterdam Schiphol,$662 ,KLM,Booking.com
+Finnair ,2:00 ,10:05 ,HEL,EWR,15h 05m,False,3h 35m ,LHR,London Heathrow,$750 ,Iberia,Booking.com
+"Finnair, British Airways ",2:00 ,10:05 ,HEL,EWR,15h 05m,False,3h 35m ,LHR,London Heathrow,$750 ,American Airlines,Booking.com
+"Finnair, British Airways ",2:00 ,10:10 ,HEL,JFK,15h 10m,False,3h 45m ,LHR,London Heathrow,$750 ,Gurufare,Booking.com
+"KLM Cityhopper, Air France ",6:30 ,4:10 ,HEL,JFK,16h 40m,False,4h 35m ,CDG,Paris Charles de Gaulle,$602 ,Delta,Booking.com
+Norra ,2:00 ,6:20 ,HEL,EWR,11h 20m,False,1h 05m ,KEF,Reykjavik Keflavik Intl,$735 ,mytrip.com,Booking.com
+Delta ,6:30 ,2:20 ,HEL,JFK,14h 50m,False,2h 35m ,CDG,Paris Charles de Gaulle,$660 ,KLM,Booking.com
+"Finnair, Republic Airways AS American Eagle ",4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$713 ,American Airlines,Booking.com
+"Finnair, British Airways ",4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$746 ,American Airlines,Booking.com
+Finnair ,2:00 ,6:00 ,HEL,JFK,11h 00m,False,55m ,KEF,Reykjavik Keflavik Intl,$762 ,mytrip.com,Booking.com
+"Finnair, British Airways ",2:00 ,8:10 ,HEL,JFK,13h 10m,False,1h 50m ,LHR,London Heathrow,$782 ,American Airlines,Booking.com
+"Finnair, American Airlines ",2:00 ,8:10 ,HEL,JFK,13h 10m,False,1h 50m ,LHR,London Heathrow,$772 ,Gurufare,Booking.com
+Finnair ,4:00 ,10:10 ,HEL,JFK,13h 10m,False,2h ,LHR,London Heathrow,$788 ,Gurufare,Booking.com
+Delta ,7:00 ,2:20 ,HEL,JFK,14h 20m,False,2h 55m ,AMS,Amsterdam Schiphol,$699 ,KLM,Booking.com
+"KLM, Air France ",1:55 ,7:25 ,HEL,JFK,12h 30m,False,1h 40m ,AMS,Amsterdam Schiphol,$652 ,Delta,Booking.com
+"Finnair, American Airlines ",2:00 ,8:10 ,HEL,JFK,13h 10m,False,1h 50m ,LHR,London Heathrow,$788 ,Gurufare,Booking.com
+United Airlines ,7:05 ,2:00 ,HEL,EWR,13h 55m,False,2h 10m ,FRA,Frankfurt am Main,$736 ,eDreams,Booking.com
+Finnair ,2:00 ,6:20 ,HEL,EWR,11h 20m,False,1h 05m ,KEF,Reykjavik Keflavik Intl,$762 ,mytrip.com,Booking.com
+Finnair ,4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$746 ,American Airlines,Booking.com
+"Finnair, British Airways ",4:55 ,6:55 ,HEL,JFK,9h 00m,True,,,,$746 ,American Airlines,Booking.com
